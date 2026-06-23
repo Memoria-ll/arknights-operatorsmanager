@@ -1,0 +1,13 @@
+# Claude / local agent config
+.claude/
+
+# Local-only foundation design notes
+docs/base/
+
+# .NET build artifacts
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+.vs/
+*.user
